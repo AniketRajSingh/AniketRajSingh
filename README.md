@@ -18,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketrajsingh&show_icons=true&locale=en&layout=compact" alt="aniketrajsingh" /></p>
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketrajsingh&show_icons=true&locale=en" alt="aniketrajsingh" /></p>
+[![@aniketrajsingh's Holopin board](https://holopin.io/api/user/board?user=aniketrajsingh)](https://holopin.io/@aniketrajsingh)
